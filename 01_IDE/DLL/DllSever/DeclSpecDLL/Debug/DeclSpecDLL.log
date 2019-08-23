@@ -1,0 +1,3 @@
+﻿  MyMath.cpp
+g:\winrt\win32 sdk\01_ide\dll\declspecdll\mymath.cpp(23): error C2375: 'MakeSquare': redefinition; different linkage
+  g:\winrt\win32 sdk\01_ide\dll\declspecdll\mymath.h(3): note: see declaration of 'MakeSquare'
