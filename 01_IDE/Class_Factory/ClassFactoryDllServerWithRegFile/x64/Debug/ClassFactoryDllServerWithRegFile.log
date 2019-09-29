@@ -1,0 +1,6 @@
+﻿  ClassFactoryDllServerWithRegFile.cpp
+ClassFactoryDllServerWithRegFile.def : warning LNK4104: export of symbol 'DllGetClassObject' should be PRIVATE
+ClassFactoryDllServerWithRegFile.def : warning LNK4104: export of symbol 'DllCanUnloadNow' should be PRIVATE
+     Creating library G:\WINRT\WIN32 SDK\01_IDE\Class_Factory\ClassFactoryDllServerWithRegFile\x64\Debug\ClassFactoryDllServerWithRegFile.lib and object G:\WINRT\WIN32 SDK\01_IDE\Class_Factory\ClassFactoryDllServerWithRegFile\x64\Debug\ClassFactoryDllServerWithRegFile.exp
+ClassFactoryDllServerWithRegFile.exp : warning LNK4070: /OUT:ClassFactoryDllServerRegFile.dll directive in .EXP differs from output filename 'G:\WINRT\WIN32 SDK\01_IDE\Class_Factory\ClassFactoryDllServerWithRegFile\x64\Debug\ClassFactoryDllServerWithRegFile.dll'; ignoring directive
+  ClassFactoryDllServerWithRegFile.vcxproj -> G:\WINRT\WIN32 SDK\01_IDE\Class_Factory\ClassFactoryDllServerWithRegFile\x64\Debug\ClassFactoryDllServerWithRegFile.dll
