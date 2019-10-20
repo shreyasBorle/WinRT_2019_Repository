@@ -1,0 +1,6 @@
+﻿  IdentityPropertiesDll.cpp
+LINK : warning LNK4076: invalid incremental status file 'G:\WINRT\WIN32 SDK\01_IDE\QueryInterface\QueryInterfaceIdentityProperties\IdentityPropertiesDll\x64\Debug\IdentityPropertiesDll.ilk' (which will be deleted); linking nonincrementally
+IdentityPropertiesDll.def : warning LNK4104: export of symbol 'DllGetClassObject' should be PRIVATE
+IdentityPropertiesDll.def : warning LNK4104: export of symbol 'DllCanUnloadNow' should be PRIVATE
+     Creating library G:\WINRT\WIN32 SDK\01_IDE\QueryInterface\QueryInterfaceIdentityProperties\IdentityPropertiesDll\x64\Debug\IdentityPropertiesDll.lib and object G:\WINRT\WIN32 SDK\01_IDE\QueryInterface\QueryInterfaceIdentityProperties\IdentityPropertiesDll\x64\Debug\IdentityPropertiesDll.exp
+  IdentityPropertiesDll.vcxproj -> G:\WINRT\WIN32 SDK\01_IDE\QueryInterface\QueryInterfaceIdentityProperties\IdentityPropertiesDll\x64\Debug\IdentityPropertiesDll.dll

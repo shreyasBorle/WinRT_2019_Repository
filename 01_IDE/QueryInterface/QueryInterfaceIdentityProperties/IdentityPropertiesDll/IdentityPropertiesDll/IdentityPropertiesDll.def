@@ -1,0 +1,7 @@
+LIBRARY IdentityPropertiesDll
+EXPORTS
+	DllGetClassObject
+	DllCanUnloadNow
+
+
+

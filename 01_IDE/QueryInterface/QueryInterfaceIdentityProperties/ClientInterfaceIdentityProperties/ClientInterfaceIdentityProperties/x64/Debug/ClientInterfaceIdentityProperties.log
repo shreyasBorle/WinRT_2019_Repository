@@ -1,0 +1,3 @@
+﻿  ClientInterfaceIdentityProperties.cpp
+g:\winrt\win32 sdk\01_ide\queryinterface\queryinterfaceidentityproperties\clientinterfaceidentityproperties\clientinterfaceidentityproperties\clientinterfaceidentityproperties.cpp(75): warning C4101: 'str': unreferenced local variable
+  ClientInterfaceIdentityProperties.vcxproj -> G:\WINRT\WIN32 SDK\01_IDE\QueryInterface\QueryInterfaceIdentityProperties\ClientInterfaceIdentityProperties\x64\Debug\ClientInterfaceIdentityProperties.exe
