@@ -1,0 +1,5 @@
+﻿  TransitivePropertiesDll.cpp
+TransitivePropertiesDll.def : warning LNK4104: export of symbol 'DllGetClassObject' should be PRIVATE
+TransitivePropertiesDll.def : warning LNK4104: export of symbol 'DllCanUnloadNow' should be PRIVATE
+     Creating library G:\WINRT\WIN32 SDK\01_IDE\QueryInterface\QueryInterfaceTransitiveProperties\TransitivePropertiesDll\x64\Debug\TransitivePropertiesDll.lib and object G:\WINRT\WIN32 SDK\01_IDE\QueryInterface\QueryInterfaceTransitiveProperties\TransitivePropertiesDll\x64\Debug\TransitivePropertiesDll.exp
+  TransitivePropertiesDll.vcxproj -> G:\WINRT\WIN32 SDK\01_IDE\QueryInterface\QueryInterfaceTransitiveProperties\TransitivePropertiesDll\x64\Debug\TransitivePropertiesDll.dll

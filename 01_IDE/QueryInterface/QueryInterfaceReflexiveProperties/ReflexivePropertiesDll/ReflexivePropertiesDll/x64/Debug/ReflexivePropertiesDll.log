@@ -1,0 +1,5 @@
+﻿  ReflexivePropertiesDll.cpp
+ReflexivePropertiesDll.def : warning LNK4104: export of symbol 'DllGetClassObject' should be PRIVATE
+ReflexivePropertiesDll.def : warning LNK4104: export of symbol 'DllCanUnloadNow' should be PRIVATE
+     Creating library G:\WINRT\WIN32 SDK\01_IDE\QueryInterface\QueryInterfaceReflexiveProperties\ReflexivePropertiesDll\x64\Debug\ReflexivePropertiesDll.lib and object G:\WINRT\WIN32 SDK\01_IDE\QueryInterface\QueryInterfaceReflexiveProperties\ReflexivePropertiesDll\x64\Debug\ReflexivePropertiesDll.exp
+  ReflexivePropertiesDll.vcxproj -> G:\WINRT\WIN32 SDK\01_IDE\QueryInterface\QueryInterfaceReflexiveProperties\ReflexivePropertiesDll\x64\Debug\ReflexivePropertiesDll.dll

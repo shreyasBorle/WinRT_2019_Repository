@@ -1,0 +1,7 @@
+LIBRARY TransitivePropertiesDll
+EXPORTS
+	DllGetClassObject
+	DllCanUnloadNow
+
+
+

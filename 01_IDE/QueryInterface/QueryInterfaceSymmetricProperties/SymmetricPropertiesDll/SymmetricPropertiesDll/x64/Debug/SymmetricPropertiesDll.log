@@ -1,0 +1,7 @@
+﻿  SymmetricPropertiesDll.cpp
+SymmetricPropertiesDll.def : warning LNK4104: export of symbol 'DllGetClassObject' should be PRIVATE
+SymmetricPropertiesDll.def : warning LNK4104: export of symbol 'DllCanUnloadNow' should be PRIVATE
+SymmetricPropertiesDll.def(8): warning LNK4275: 'LIBRARY' statement cannot appear after 'LIBRARY' or 'NAME'; ignored
+     Creating library G:\WINRT\WIN32 SDK\01_IDE\QueryInterface\QueryInterfaceSymmetricProperties\SymmetricPropertiesDll\x64\Debug\SymmetricPropertiesDll.lib and object G:\WINRT\WIN32 SDK\01_IDE\QueryInterface\QueryInterfaceSymmetricProperties\SymmetricPropertiesDll\x64\Debug\SymmetricPropertiesDll.exp
+SymmetricPropertiesDll.exp : warning LNK4070: /OUT:ClassFactoryDllServerRegFile.dll directive in .EXP differs from output filename 'G:\WINRT\WIN32 SDK\01_IDE\QueryInterface\QueryInterfaceSymmetricProperties\SymmetricPropertiesDll\x64\Debug\SymmetricPropertiesDll.dll'; ignoring directive
+  SymmetricPropertiesDll.vcxproj -> G:\WINRT\WIN32 SDK\01_IDE\QueryInterface\QueryInterfaceSymmetricProperties\SymmetricPropertiesDll\x64\Debug\SymmetricPropertiesDll.dll

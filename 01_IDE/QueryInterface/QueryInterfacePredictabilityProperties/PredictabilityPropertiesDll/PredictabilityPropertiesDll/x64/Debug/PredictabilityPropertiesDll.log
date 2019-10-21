@@ -1,0 +1,5 @@
+﻿PredictabilityPropertiesDll.def : warning LNK4104: export of symbol 'DllGetClassObject' should be PRIVATE
+PredictabilityPropertiesDll.def : warning LNK4104: export of symbol 'DllCanUnloadNow' should be PRIVATE
+     Creating library G:\WINRT\WIN32 SDK\01_IDE\QueryInterface\QueryInterfacePredictabilityProperties\PredictabilityPropertiesDll\x64\Debug\PredictabilityPropertiesDll.lib and object G:\WINRT\WIN32 SDK\01_IDE\QueryInterface\QueryInterfacePredictabilityProperties\PredictabilityPropertiesDll\x64\Debug\PredictabilityPropertiesDll.exp
+PredictabilityPropertiesDll.exp : warning LNK4070: /OUT:ClassFactoryDllServerRegFile.dll directive in .EXP differs from output filename 'G:\WINRT\WIN32 SDK\01_IDE\QueryInterface\QueryInterfacePredictabilityProperties\PredictabilityPropertiesDll\x64\Debug\PredictabilityPropertiesDll.dll'; ignoring directive
+  PredictabilityPropertiesDll.vcxproj -> G:\WINRT\WIN32 SDK\01_IDE\QueryInterface\QueryInterfacePredictabilityProperties\PredictabilityPropertiesDll\x64\Debug\PredictabilityPropertiesDll.dll

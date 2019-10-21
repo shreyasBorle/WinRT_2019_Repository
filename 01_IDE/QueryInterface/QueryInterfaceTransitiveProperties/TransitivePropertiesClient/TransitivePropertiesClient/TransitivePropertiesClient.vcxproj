@@ -20,7 +20,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{A8A65A8E-5DBA-4D5B-9C69-3B422CED973D}</ProjectGuid>
+    <ProjectGuid>{A80269CD-AF95-4C35-B98E-55EC307EB02C}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>TransitivePropertiesClient</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
@@ -143,6 +143,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="TransitivePropertiesClient.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="TransitivePropertiesDll.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
