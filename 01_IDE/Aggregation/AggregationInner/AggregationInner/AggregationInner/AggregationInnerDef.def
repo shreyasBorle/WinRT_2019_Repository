@@ -1,0 +1,7 @@
+LIBRARY AggregationInner
+EXPORTS
+	DllGetClassObject
+	DllCanUnloadNow
+
+
+

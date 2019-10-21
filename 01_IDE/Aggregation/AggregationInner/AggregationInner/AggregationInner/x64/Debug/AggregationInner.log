@@ -1,0 +1,4 @@
+﻿AggregationInnerDef.def : warning LNK4104: export of symbol 'DllGetClassObject' should be PRIVATE
+AggregationInnerDef.def : warning LNK4104: export of symbol 'DllCanUnloadNow' should be PRIVATE
+     Creating library G:\WINRT\WIN32 SDK\01_IDE\Aggregation\AggregationInner\AggregationInner\x64\Debug\AggregationInner.lib and object G:\WINRT\WIN32 SDK\01_IDE\Aggregation\AggregationInner\AggregationInner\x64\Debug\AggregationInner.exp
+  AggregationInner.vcxproj -> G:\WINRT\WIN32 SDK\01_IDE\Aggregation\AggregationInner\AggregationInner\x64\Debug\AggregationInner.dll

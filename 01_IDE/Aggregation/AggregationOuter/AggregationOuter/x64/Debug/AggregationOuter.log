@@ -1,0 +1,5 @@
+﻿  AggregationOuter.cpp
+AggregationOuter.def : warning LNK4104: export of symbol 'DllGetClassObject' should be PRIVATE
+AggregationOuter.def : warning LNK4104: export of symbol 'DllCanUnloadNow' should be PRIVATE
+     Creating library G:\WINRT\WIN32 SDK\01_IDE\Aggregation\AggregationOuter\x64\Debug\AggregationOuter.lib and object G:\WINRT\WIN32 SDK\01_IDE\Aggregation\AggregationOuter\x64\Debug\AggregationOuter.exp
+  AggregationOuter.vcxproj -> G:\WINRT\WIN32 SDK\01_IDE\Aggregation\AggregationOuter\x64\Debug\AggregationOuter.dll
